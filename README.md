@@ -1,5 +1,4 @@
 # manhgdev
-Generates a snake game from a github user contributions graph
 Hi everybody, my name is Manh Dev, i am student...
 /1
 /2
